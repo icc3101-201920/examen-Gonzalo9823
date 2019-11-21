@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\Examen\CombateNaval\CombateNaval\obj\Debug\CombateNaval.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Examen\CombateNaval\CombateNaval\obj\Debug\CombateNaval.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Examen\CombateNaval\CombateNaval\bin\Debug\CombateNaval.exe.config
+\\Mac\Home\Desktop\Examen\CombateNaval\CombateNaval\bin\Debug\CombateNaval.exe
+\\Mac\Home\Desktop\Examen\CombateNaval\CombateNaval\bin\Debug\CombateNaval.pdb
+\\Mac\Home\Desktop\Examen\CombateNaval\CombateNaval\obj\Debug\CombateNaval.exe
+\\Mac\Home\Desktop\Examen\CombateNaval\CombateNaval\obj\Debug\CombateNaval.pdb
